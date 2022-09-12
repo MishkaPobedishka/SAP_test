@@ -25,5 +25,5 @@
 1) `git clone git@github.com:project_one /var/www/projects`
 2) `git cherry-pick 63162ea -e "Новый комментарий"`
 3) `git stash save "Наработки"`
-4) `(Находясь в текущей ветке) git merge otherFeatures`
+4) (Находясь в текущей ветке) `git merge otherFeatures`
 5) `git restore filename`
